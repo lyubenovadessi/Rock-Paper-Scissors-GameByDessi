@@ -2,22 +2,6 @@ Rock Paper Scissors
 
 A simple Rock Paper Scissors game implemented in Python. Play against the computer and test your luck and strategy!
 
-Table of Contents
-
-Description
-
-Features
-
-Installation
-
-Usage
-
-How to Play
-
-Contributing
-
-License
-
 Description
 
 This is a terminal-based Rock Paper Scissors game where a user can play against the computer. The computer’s moves are randomly generated. The game keeps track of wins, losses, and ties.
